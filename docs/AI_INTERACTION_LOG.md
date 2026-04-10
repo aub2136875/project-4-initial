@@ -37,4 +37,4 @@ These were things I asked the AI before starting the assignment.
 
 "Can you explain generics"
 
-- This was just for review so I put it at the end as to not confuse 
+- This was just for review so I put it at the end as to not mix things in
